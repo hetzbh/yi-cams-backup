@@ -2,7 +2,7 @@
 How to backup videos from Yi based cameras
 
 Many people buy their security cameras from Yi technologies. Those cameras are working pretty well, and they are cheap.
-However, those cameras are being sold as "Cloud camera" and as a user, you can either save the video temporarily to a MicroSD, or you can use their cloud offering, with some serious high price tags, and the reocrding stays on the cloud for 7-30 days, so you cannot (officially) have an archive footage and you cannot create a local backup.
+However, those cameras are being sold as "Cloud camera" and as a user, you can either save the video temporarily to a MicroSD, or you can use their cloud offering, with some serious high price tags, and the recording stays on the cloud for 7-30 days, so you cannot (officially) have an archive footage and you cannot create a local backup.
 
 Thankfully, projects created [like this](https://github.com/TheCrypt0/yi-hack-v4) by TheCrypt0 and [this project](https://github.com/roleoroleo/yi-hack-MStar) by roleoroleo - you can hack your camera, and within few minutes, you can use your camera again and have some extra functionality.
 
