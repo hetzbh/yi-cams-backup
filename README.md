@@ -26,7 +26,7 @@ With rsync, you can:
 
 Requirements:
 * A Linux machine, or a Synology NAS, or FreeNAS - any machine that supports rsync, which will be the destination machine
-* A bit of Linux knoeledge (I'm just giving the basics, feel free to modify it as you wish)
+* A bit of Linux knowledge (I'm just giving the basics, feel free to modify it as you wish)
 * SSH to the camera.
 
 Lets begin:
