@@ -37,6 +37,7 @@ mkdir -p /tmp/sd/yi-hack/bin && mkdir -p /tmp/sd/yi-hack/lib
 cd /tmp/sd/yi-hack/bin
 wget https://github.com/JBBgameich/rsync-static/releases/download/continuous/rsync-arm
 mv rsync-arm rsync
+chmod +x rsync
 cd /usr/bin
 ln -s /tmp/sd/yi-hack/bin/rsync .
 ```
